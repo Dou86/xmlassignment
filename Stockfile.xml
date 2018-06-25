@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="xsltone.xslt" type="text/xsl"?>
+<Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="StockfileSchema.xsd">
+  <Item>
+    <ItemCode>A0001</ItemCode>
+    <ItemDescription>Horse on Wheels</ItemDescription>
+    <ItemCount>5</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0002</ItemCode>
+    <ItemDescription>Elephant on Wheels</ItemDescription>
+    <ItemCount>2</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0003</ItemCode>
+    <ItemDescription>Dog on Wheels</ItemDescription>
+    <ItemCount>0</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0004</ItemCode>
+    <ItemDescription>Seal on Wheels</ItemDescription>
+    <ItemCount>3</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0005</ItemCode>
+    <ItemDescription>Bear on Wheels</ItemDescription>
+    <ItemCount>7</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0006</ItemCode>
+    <ItemDescription>Teddy Bear</ItemDescription>
+    <ItemCount>2</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0007</ItemCode>
+    <ItemDescription>Clown</ItemDescription>
+    <ItemCount>5</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0008</ItemCode>
+    <ItemDescription>Puppy(crouch)</ItemDescription>
+    <ItemCount>3</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0009</ItemCode>
+    <ItemDescription>Puppy(stand)</ItemDescription>
+    <ItemCount>2</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0010</ItemCode>
+    <ItemDescription>Puppy(jump)</ItemDescription>
+    <ItemCount>2</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0011</ItemCode>
+    <ItemDescription>Pupp(lying)</ItemDescription>
+    <ItemCount>1</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0012</ItemCode>
+    <ItemDescription>Cart with Blocks (50)</ItemDescription>
+    <ItemCount>0</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0013</ItemCode>
+    <ItemDescription>Cart with Blocks (100)</ItemDescription>
+    <ItemCount>5</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0014</ItemCode>
+    <ItemDescription>Cart with Blocks (200)</ItemDescription>
+    <ItemCount>4</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0015</ItemCode>
+    <ItemDescription>Train with 0 Carriage</ItemDescription>
+    <ItemCount>12</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0016</ItemCode>
+    <ItemDescription>Train with 1 Carriage</ItemDescription>
+    <ItemCount>10</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0017</ItemCode>
+    <ItemDescription>Train with 2 Carriage</ItemDescription>
+    <ItemCount>5</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0018</ItemCode>
+    <ItemDescription>Train with 3 Carriage</ItemDescription>
+    <ItemCount>4</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0019</ItemCode>
+    <ItemDescription>Train with 4 Carriage</ItemDescription>
+    <ItemCount>5</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0020</ItemCode>
+    <ItemDescription>Train with 5 Carriage</ItemDescription>
+    <ItemCount>2</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0021</ItemCode>
+    <ItemDescription>Building Blocks (20)</ItemDescription>
+    <ItemCount>15</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0022</ItemCode>
+    <ItemDescription>Building Blocks (30)</ItemDescription>
+    <ItemCount>13</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0023</ItemCode>
+    <ItemDescription>Building Blocks (40)</ItemDescription>
+    <ItemCount>16</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0024</ItemCode>
+    <ItemDescription>Building Blocks (50)</ItemDescription>
+    <ItemCount>5</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0025</ItemCode>
+    <ItemDescription>Building Blocks (100)</ItemDescription>
+    <ItemCount>2</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0026</ItemCode>
+    <ItemDescription>Building Blocks (200)</ItemDescription>
+    <ItemCount>8</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0027</ItemCode>
+    <ItemDescription>Windmill</ItemDescription>
+    <ItemCount>5</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0028</ItemCode>
+    <ItemDescription>Farmhouse</ItemDescription>
+    <ItemCount>6</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0029</ItemCode>
+    <ItemDescription>Fencing</ItemDescription>
+    <ItemCount>22</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0030</ItemCode>
+    <ItemDescription>Barn</ItemDescription>
+    <ItemCount>12</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0031</ItemCode>
+    <ItemDescription>Tractor</ItemDescription>
+    <ItemCount>6</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0032</ItemCode>
+    <ItemDescription>Animals</ItemDescription>
+    <ItemCount>3</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0033</ItemCode>
+    <ItemDescription>House</ItemDescription>
+    <ItemCount>9</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0034</ItemCode>
+    <ItemDescription>Car</ItemDescription>
+    <ItemCount>12</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0035</ItemCode>
+    <ItemDescription>Building (small)</ItemDescription>
+    <ItemCount>4</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0036</ItemCode>
+    <ItemDescription>Building (medium)</ItemDescription>
+    <ItemCount>3</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0037</ItemCode>
+    <ItemDescription>Building (tall)</ItemDescription>
+    <ItemCount>4</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0038</ItemCode>
+    <ItemDescription>Shop</ItemDescription>
+    <ItemCount>7</ItemCount>
+    <OnOrder>No</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0039</ItemCode>
+    <ItemDescription>Traffic Lights</ItemDescription>
+    <ItemCount>5</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+  <Item>
+    <ItemCode>A0040</ItemCode>
+    <ItemDescription>Petrol Station</ItemDescription>
+    <ItemCount>4</ItemCount>
+    <OnOrder>Yes</OnOrder>
+  </Item>
+</Items>
